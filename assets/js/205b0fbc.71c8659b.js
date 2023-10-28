@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusam=self.webpackChunkdocusam||[]).push([[3895],{4399:o=>{o.exports=JSON.parse('{"permalink":"/Docusam/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
